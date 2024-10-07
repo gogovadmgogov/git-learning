@@ -93,6 +93,8 @@ reference to that file's data:
 ------------------------------------------------
 $ git cat-file -t 3b18e512
 blob
+
+#adding one line for testing purpose
 ------------------------------------------------
 
 A "blob" is just file data, which we can also examine with cat-file:
